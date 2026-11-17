@@ -6,6 +6,7 @@ categories:
   - Windows
   - Prosa
   - Microsoft
+  - OS
 tags:
   - windows
   - windows-95
